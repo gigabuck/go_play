@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/gigabuck/go_play/stringutil"
+)
 
 func main() {
-    fmt.Printf("hello, world!\n")
+	fmt.Printf("Hello, World!\n")
+	fmt.Printf(stringutil.Reverse("\n!oG, olleH"))
 }
