@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted/
+!_TAG_PROGRAM_AUTHOR	Joel Stemmer	/stemmertech@gmail.com/
+!_TAG_PROGRAM_NAME	gotags
+!_TAG_PROGRAM_URL	https://github.com/jstemmer/gotags
+!_TAG_PROGRAM_VERSION	1.3.0	/go1.2.1/
+Reverse	stringutil/reverse.go	5;"	f	access:public	language:Go	line:5	signature:(s string)	type:string
+TestReverse	stringutil/reverse_test.go	5;"	f	access:public	language:Go	line:5	signature:(t *testing.T)
+fmt	hello/hello.go	4;"	i	language:Go	line:4
+github.com/gigabuck/go_play/stringutil	hello/hello.go	6;"	i	language:Go	line:6
+main	hello/hello.go	1;"	p	language:Go	line:1
+main	hello/hello.go	9;"	f	access:private	language:Go	line:9	signature:()
+stringutil	stringutil/reverse.go	2;"	p	language:Go	line:2
+stringutil	stringutil/reverse_test.go	1;"	p	language:Go	line:1
+testing	stringutil/reverse_test.go	3;"	i	language:Go	line:3
